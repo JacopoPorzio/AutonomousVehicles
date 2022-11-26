@@ -2,6 +2,7 @@
 
 Prof. Francesco Braghin, prof. Stefano Arrigoni
 
-Repository for the codes of the course. /n
+Repository for the codes of the course.
+
 Student:
 Jacopo Porzio
